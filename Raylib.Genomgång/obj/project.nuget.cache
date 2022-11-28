@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UfP3Av/otpHuXaKDp8D0Kj6e7/wUprc6XADNzD7aKFOwNOEDDfwwpvJv2OMToLWJMBidpUTXxRDGK6jaG5biJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\torell.jordan\\Documents\\Prog2\\Raylib.Genomgång\\Raylib.Genomgång\\Raylib.Genomgång.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\torell.jordan\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\torell.jordan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

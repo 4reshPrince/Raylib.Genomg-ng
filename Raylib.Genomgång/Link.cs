@@ -14,6 +14,10 @@ public class Link: GameObject
         {
             rect.x++;
         }
+        if (Raylib.IsKeyDown(KeyboardKey.KEY_LEFT))
+        {
+            rect.x--;
+        }
     }
 
 }

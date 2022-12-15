@@ -1,6 +1,6 @@
 ﻿global using Raylib_cs;
 
-Raylib.InitWindow(800, 600, "Inte Zelda");
+Raylib.InitWindow(800, 600, "Spel");
 Raylib.SetTargetFPS(60);
 
 Area grasslands = new Area();

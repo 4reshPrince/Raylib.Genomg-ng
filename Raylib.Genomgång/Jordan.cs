@@ -1,9 +1,9 @@
 
-public class Link: GameObject
+public class Jordan: GameObject
 {
     // hp; stamina, position, bild, speed, hitbox, currentItem
 
-    public Link()
+    public jordan()
     {
         color = Color.GREEN;
     }
@@ -17,6 +17,14 @@ public class Link: GameObject
         if (Raylib.IsKeyDown(KeyboardKey.KEY_LEFT))
         {
             rect.x--;
+        }
+        if (Raylib.IsKeyDown(KeyboardKey.KEY_UP))
+        {
+            rect.y--;
+        }
+        if (Raylib.IsKeyDown(KeyboardKey.KEY_DOWN))
+        {
+            rect.y++;
         }
     }
 

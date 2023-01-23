@@ -1,22 +1,22 @@
 public class Area
 {
-    private Link link;
+    private Jordan jordan;
     private Monster monster;
 
     public Area()
     {
-        link = new Link();
+        jordan = new Jordan();
         monster = new Monster();
     }
 
     public void Update()
     {
-        link.Update();
+        jordan.Update();
         monster.Update();
     }
     public void Draw()
     {
-        link.Draw();
+        jordan.Draw();
         monster.Draw();
     }
 }

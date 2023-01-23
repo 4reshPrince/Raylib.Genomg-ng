@@ -7,6 +7,6 @@ public class Monster: GameObject
     }
     public override void Update()
     {
-        rect.y++;    
+        rect.y++;
     }
 }

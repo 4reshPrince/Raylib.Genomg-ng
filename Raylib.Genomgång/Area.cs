@@ -1,22 +1,22 @@
 public class Area
 {
-    private Jordan jordan;
+    private Player player;
     private Monster monster;
 
     public Area()
     {
-        jordan = new Jordan();
+        player = new Player();
         monster = new Monster();
     }
 
     public void Update()
     {
-        jordan.Update();
+        player.Update();
         monster.Update();
     }
     public void Draw()
     {
-        jordan.Draw();
+        player.Draw();
         monster.Draw();
     }
 }

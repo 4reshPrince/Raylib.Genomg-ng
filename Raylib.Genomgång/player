@@ -3,6 +3,10 @@ public class player: GameObject
 {
     // hp; stamina, position, bild, speed, hitbox, currentItem
 
+    float speed = 3f;
+
+   
+
     public player()
     {
         color = Color.GREEN;
@@ -27,5 +31,6 @@ public class player: GameObject
             rect.y++;
         }
     }
+
 
 }

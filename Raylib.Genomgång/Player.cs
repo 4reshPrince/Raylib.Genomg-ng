@@ -3,7 +3,6 @@ public class Player: GameObject
 {
     // hp; stamina, position, bild, speed, hitbox, currentItem
 
-    float speed = 3f;
 
    
 

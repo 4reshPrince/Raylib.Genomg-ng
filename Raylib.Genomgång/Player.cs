@@ -1,5 +1,5 @@
 
-public class player: GameObject
+public class Player: GameObject
 {
     // hp; stamina, position, bild, speed, hitbox, currentItem
 
@@ -7,7 +7,7 @@ public class player: GameObject
 
    
 
-    public player()
+    public Player()
     {
         color = Color.GREEN;
     }

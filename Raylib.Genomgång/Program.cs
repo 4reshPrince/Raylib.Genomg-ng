@@ -17,6 +17,4 @@ while (!Raylib.WindowShouldClose())
     grasslands.Draw();
 
     Raylib.EndDrawing();
-
-
 }

@@ -12,7 +12,6 @@ public class GameObject
      public void Draw()
     {
         Raylib.DrawRectangleRec(rect, color);
-    }
 
     public virtual void Update()
     {

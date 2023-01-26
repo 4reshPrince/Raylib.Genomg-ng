@@ -2,7 +2,6 @@
 public class Player: GameObject
 {
     // hp; stamina, position, bild, speed, hitbox, currentItem
-    //create speed to player
     public Player()
     {
         color = Color.GREEN;
